@@ -1,4 +1,4 @@
-# Columbia_Capstone-KPMG
+# [KPMG x Columbia] Intelligent Document Analysis for Healthcare Programs Using LLMs and RAG | Fall 2025
 
 ## Project Organization
 
